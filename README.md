@@ -5,6 +5,7 @@ Run the project:
 
 ```
 cd kotlin-react-todo-app/ 
+npm install
 npm start
 ```
 
